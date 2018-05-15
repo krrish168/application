@@ -8,7 +8,7 @@ import com.bookmyshow.homepage.BookMyShow_Homepage;
 public class HomePage_TestClass extends BaseTest
 {
 	
-	@Test
+	@Test //Book my show added to github
 	public void HomePageCheck() throws InterruptedException
 	{
 	BookMyShow_Homepage bms=new BookMyShow_Homepage(driver);
